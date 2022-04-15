@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenText" >
+        <item name="android:textColor">#012DCC</item>
+    </style>
+    <style name="customfontstyle" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/audiowide</item>
+        <item name="android:textSize">80sp</item>
+
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight"></style>
+</resources>
